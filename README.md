@@ -50,6 +50,10 @@ Inside the script you can modify:
 ## Author
 
 Project created to automate repetitive tasks and improve efficiency in real work environments.
+
+## Screenshot
+
+![Application Screenshot](screenshot.png)
 =======================================================================================================
 
 # PDF Batch Extractor
